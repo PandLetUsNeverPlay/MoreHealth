@@ -1,0 +1,14 @@
+name: MoreHealth
+main: health\panda\Main
+author: PandLetUsNeverPlay
+version: 1.0.0
+api: 3.0.0
+
+commands:
+  morehealth:
+    description: Gives you more health!
+    permission: health.command
+    aliases: [mh]
+  normal:
+    description: Reset your life to the orginal!
+    permission: health.command
