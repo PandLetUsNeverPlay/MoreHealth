@@ -1,0 +1,11 @@
+#Config of the MaxHealth plugin by PandLetUsNeverPlay
+
+no-permission: You don't have permission to use this command!
+
+maxhealth-message: You have now more health!
+
+normal-message: You have now the normal count of health!
+
+#The count of half hearts which thr player gets when he do maxhealth (20 = normal)
+
+maxhealth-health: 60
