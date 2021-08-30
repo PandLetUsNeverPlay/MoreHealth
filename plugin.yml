@@ -1,7 +1,7 @@
 name: MoreHealth
 main: health\panda\Main
 author: PandLetUsNeverPlay
-version: 1.0.0
+version: 1.0.0-BETA
 api: 3.0.0
 
 commands:
